@@ -4,7 +4,7 @@
 
 안녕하세요. 맞춤법, 코딩, 작곡 등 다양한 활동을 취미로 하고 있는 김민우라고 합니다.
 
-<h2>SNS</h2>
+<h2>Site</h2>
 <a href="https://www.instagram.com/minu_taur" target="_blank"><img src="https://img.shields.io/badge/Instagram-FFCCCF?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.youtube.com/channel/UCbiXYg8AdGuUR-PLbSAVSTQ" target="_blank"><img src="https://img.shields.io/badge/Youtube-red?style=flat-square&logo=Youtube&logoColor=white"/></a>
 
