@@ -3,8 +3,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%Fchickenchi%2Fhit-counter&count_bg=%23000000&title_bg=%23757575&icon=&icon_color=%23E7E7E7&title=Visitor&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ~~~
-안녕하세요. 맞춤법, 코딩, 작곡 등 다양한 활동을 취미로 하고 있는
-김민우라고 합니다.
+안녕하세요. 맞춤법, 코딩, 작곡 등 다양한 활동을 취미로 하고 있는 김민우라고 합니다.
 ~~~
 
 <h2>SNS</h2>
