@@ -1,4 +1,4 @@
-# Deterism
+![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20Deterism%20%20&fontAlign=30&fontSize=30&textBg=true&desc=All-Round+Entertainer&descAlign=60&descAlignY=50)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%Fchickenchi%2Fhit-counter&count_bg=%23000000&title_bg=%23757575&icon=&icon_color=%23E7E7E7&title=Visitor&edge_flat=false)](https://hits.seeyoufarm.com)
 
