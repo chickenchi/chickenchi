@@ -7,6 +7,7 @@
 <h2>Frequently Used Language <img src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" width="30px" height="30px" align="center" display="block" /></h2>
 <div align = left>
 <img src="https://img.shields.io/badge/C-A8FFCC.svg?style=for-the-badge&logo=C&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
 <img src="https://img.shields.io/badge/Csharp-2391FF.svg?style=for-the-badge&logo=Csharp&logoColor=while">
 <img src="https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black">
 </div>
