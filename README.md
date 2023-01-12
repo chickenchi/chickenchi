@@ -14,7 +14,7 @@
 
 <h2>Status <img src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" width="30px" height="30px" align="center" display="block" /></h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chickenchi&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chickenchi&hide=contribs,prs)
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chickenchi&layout=compact&theme=radical)](https://github.com/chickenchi/github-readme-stats)
 <br />
