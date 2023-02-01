@@ -4,7 +4,7 @@
 <a href="https://www.youtube.com/channel/UCbiXYg8AdGuUR-PLbSAVSTQ" target="_blank"><img src="https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white"/></a>
 <a href="https://blog.naver.com/kmd70117" target="_blank"><img src="https://img.shields.io/badge/NAVER-00FF00?style=flat-square&logo=Naver&logoColor=white"/></a>
 
-<h2>Frequently Use Language <img src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" width="30px" height="30px" align="center" display="block" /></h2>
+<h2>Frequently Use Languages <img src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" width="30px" height="30px" align="center" display="block" /></h2>
 <div align = left>
 <img src="https://img.shields.io/badge/C-A8FFCC.svg?style=for-the-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white">
