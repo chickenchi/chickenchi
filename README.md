@@ -1,3 +1,13 @@
+<h1>Deterism</h1>
+
+### 게임 개발자 목표... 라기에는 잡다한 걸 많이 하는 사람 ###
+
+~~~
+안녕하세요, 국어를 좋아하는 작곡러 게임 개발자 프론트엔드? 개발자가 목표인 김민우라고 합니다.
+주로 작곡, 한국어 맞춤법, 문학, C++, React 등과 관련해서 작업하고 있습니다.
+굳이 위에 나오는 것 중에 꼽자면 게임 개발자부터 하고 싶습니다.
+~~~
+
 <h2>Site <img src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" width="30px" height="30px" align="center" display="block" /></h2>
 
 <a href="https://www.instagram.com/minu_taur" target="_blank"><img src="https://img.shields.io/badge/Instagram-090847?style=flat-square&logo=Instagram&logoColor=white"/></a>
