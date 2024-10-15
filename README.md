@@ -3,8 +3,8 @@
 ### 웹/앱 개발자를 목표로 하는 사람 ###
 
 ~~~
-안녕하세요, Acrylic이라고 합니다.
-주로 작곡, 한글 맞춤법, 문학, C++, 웹/앱, 디자인 등과 관련해서 작업하고 있습니다.
+안녕하세요, 김민우라고 합니다.
+주로 웹/앱, 디자인 등과 관련해서 작업하고 있습니다.
 ~~~
 
 <h2>Site <img src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" width="30px" height="30px" align="center" display="block" /></h2>
